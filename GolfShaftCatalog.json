@@ -1,0 +1,155 @@
+{
+    "Low Launch / Low Spin": {
+        "Driver Shafts": [
+            {
+                "manufacturer": "Graphite Design",
+                "models": [
+                    "Tour AD XC",
+                    "Tour AD BB"
+                ]
+            },
+            {
+                "manufacturer": "Fujikura",
+                "models": [
+                    "Ventus Black",
+                    "Speeder Evolution V"
+                ]
+            },
+            {
+                "manufacturer": "Mitsubishi Chemical",
+                "models": [
+                    "Diamana Whiteboard",
+                    "Tensei CK Pro White"
+                ]
+            },
+            {
+                "manufacturer": "UST Mamiya",
+                "models": [
+                    "ProForce V2",
+                    "Lin-Q M40X"
+                ]
+            },
+            {
+                "manufacturer": "Aldila",
+                "models": [
+                    "Rogue Black",
+                    "NV Green"
+                ]
+            },
+            {
+                "manufacturer": "Accra",
+                "models": [
+                    "TZ5",
+                    "FX 3.0"
+                ]
+            },
+            {
+                "manufacturer": "Project X",
+                "models": [
+                    "HZRDUS Black",
+                    "HZRDUS Smoke RDX"
+                ]
+            },
+            {
+                "manufacturer": "Oban",
+                "models": [
+                    "Kiyoshi Black",
+                    "Kiyoshi White"
+                ]
+            }
+        ],
+        "Fairway Wood Shafts": [
+            {
+                "manufacturer": "Graphite Design",
+                "models": [
+                    "Tour AD DI"
+                ]
+            },
+            {
+                "manufacturer": "Fujikura",
+                "models": [
+                    "Ventus TR Black"
+                ]
+            },
+            {
+                "manufacturer": "Mitsubishi Chemical",
+                "models": [
+                    "Tensei AV Raw White"
+                ]
+            },
+            {
+                "manufacturer": "Aldila",
+                "models": [
+                    "Rogue Max FW"
+                ]
+            }
+        ],
+        "Hybrid Shafts": [
+            {
+                "manufacturer": "Graphite Design",
+                "models": [
+                    "Tour AD DI-H"
+                ]
+            },
+            {
+                "manufacturer": "Fujikura",
+                "models": [
+                    "Ventus HB Black"
+                ]
+            },
+            {
+                "manufacturer": "Mitsubishi Chemical",
+                "models": [
+                    "Tensei AV Raw Hybrid White"
+                ]
+            },
+            {
+                "manufacturer": "Project X",
+                "models": [
+                    "HZRDUS Black Hybrid"
+                ]
+            }
+        ],
+        "Iron Shafts": [
+            {
+                "manufacturer": "True Temper",
+                "models": [
+                    "Dynamic Gold Tour Issue X100"
+                ]
+            },
+            {
+                "manufacturer": "KBS",
+                "models": [
+                    "C-Taper"
+                ]
+            },
+            {
+                "manufacturer": "Project X",
+                "models": [
+                    "Steel (6.5)",
+                    "Catalyst 100"
+                ]
+            },
+            {
+                "manufacturer": "Aerotech",
+                "models": [
+                    "Steelfiber i125"
+                ]
+            }
+        ],
+        "Wedge Shafts": [
+            {
+                "manufacturer": "True Temper",
+                "models": [
+                    "Dynamic Gold S400"
+                ]
+            },
+            {
+                "manufacturer": "KBS",
+                "models": [
+                    "Hi-Rev 2.0 (Stiff Flex)"
+                ]
+            }
+        ]
+    }
+}
